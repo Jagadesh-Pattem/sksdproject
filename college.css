@@ -1,0 +1,109 @@
+
+.main{
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
+.head{
+  border: 2px solid black;
+  padding: 1%;
+  margin-top: 3%;
+  background-color: black;
+  color:white;
+  border-radius: 5px;
+}
+
+body{
+  background-image:url('photos/header.jpg');
+}
+
+.entrance{
+ height:380px;
+ margin-top: 1%;
+ background-image:url("photos/college.png");
+ background-repeat: no-repeat;
+ background-position: center;
+}
+
+.navi{
+  margin-top: 5px;
+ }
+
+.navi ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+.navi ul li{
+  border: 2px solid black;
+  background-color: black;
+  border-radius: 5px;
+  height: 40px;
+  margin: auto;
+  padding: 0.5%;
+}
+
+.navi ul li:hover{
+  border: 2px solid blue;
+  background-color: blue;
+  border-radius: 5px;
+  height: 40px;
+  margin: auto;
+  padding: 0.5%;
+  color: white;
+}
+
+.navi ul a li{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.navi ul a li:hover{
+  text-decoration: none;
+}
+
+.matter p{
+ color: white;
+}
+
+.matter h3{
+ color: red;
+}
+.footer{
+  margin-top: 2%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 0.5%;
+}
+
+.pic1,.pic2,.pic3,.pic4{
+ height: 250px;
+ width: 200px;
+}
+
+.faculty{
+  margin: 4%;
+}
+
+.name{
+    position: absolute;
+    top: 100%;
+    left: 25%;
+}
+
+.photos{
+ height: 400px;
+}
+
+.slideshow{
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+
+.sec{
+  margin-top: 5%;
+}
+
